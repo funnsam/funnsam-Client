@@ -10,3 +10,4 @@ funnsam Client is a client focused on 1.8, and might do newest versions if I wan
 ## Features You Could Expect in 1.18-0.1
 - [ ] Optifine Embedded Inside
 - [ ] Custom Splash Screen
+- [ ] Modify GUI
