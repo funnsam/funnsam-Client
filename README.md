@@ -1,5 +1,7 @@
 # funnsam Client — A Minecraft PVP Client
-![Logo](/funnsamclient.png)
+<p align="center">
+  <img width="256" height="256" src="/funnsamclient.png">
+</p>
 
 funnsam Client is a client focused on 1.8, and might do newest versions if I wants to
 
