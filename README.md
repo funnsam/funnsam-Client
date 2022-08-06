@@ -8,9 +8,8 @@ funnsam Client is a client focused on 1.8, and might do newest versions if I wan
 - Custom Splash Screen
 
 ## Features You Could Expect in 1.8-0.1.1
-- [ ] #1
-- [ ] #3
-- [x] Modified GUI
+- [ ] Issue #3
+- [X] Modified GUI
 
 ## Features You Could Expect in 1.8-0.2
-- [ ] #1
+- [ ] Issue #1
