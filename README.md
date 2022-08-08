@@ -5,6 +5,12 @@
 
 funnsam Client is a client focused on 1.8, and might do newest versions if I wants to
 
+## How to Install
+1. Download latest version
+2. Go to %appdata%/.minecraft/versions
+3. Extract the folder to there
+4. Enjoy! :)
+
 ## Features
 - [X] Optifine Embedded Inside
 - [X] Custom Splash Screen
