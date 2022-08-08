@@ -18,3 +18,4 @@ funnsam Client is a client focused on 1.8, and might do newest versions if I wan
 
 ## Features You Could Expect in 1.8-0.2
 - [ ] [Add HUD](https://github.com/funnsam/funnsam-Client/issues/1)
+- [ ] Add ReplayMod Support
