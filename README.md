@@ -18,4 +18,9 @@ funnsam Client is a client focused on 1.8, and might do newest versions if I wan
 
 ## Features You Could Expect in 1.8-0.2
 - [ ] [Add HUD](https://github.com/funnsam/funnsam-Client/issues/1)
-- [ ] ~~Add ReplayMod Support~~
+
+## Features You Could Expect in 1.8-1.0
+- [ ] Add Mods
+  - [ ] ReplayMod
+  - [ ] Hypixel Skyblock Mods
+  - [ ] 1.7 Animation Mod
